@@ -20,17 +20,17 @@ Conversion notes:
 ----->
 
 
-THE CONSTITUTION OF THE UNIVERSITY OF MICHIGAN MEN’S GLEE CLUB
+# THE CONSTITUTION OF THE UNIVERSITY OF MICHIGAN MEN’S GLEE CLUB
 
-As Revised and Ratified on the 23<sup>rd</sup> day of October in the Year of the Common Era 2022, by the Men’s Glee Club the 163<sup>th</sup>.
+## As Revised and Ratified on the 23<sup>rd</sup> day of October in the Year of the Common Era 2022, by the Men’s Glee Club the 163<sup>th</sup>.
 
-**PREAMBLE**
+## PREAMBLE
 
 The University of Michigan Men’s Glee Club is an ensemble dedicated to musical excellence in the male chorus tradition. We are proud of our reputation and reaffirm our long-standing commitment to represent ourselves, our alumni, the University, the State, and the Nation, as well as we are able. Though our members have diverse personal backgrounds, we are united as a social institution with a communitarian spirit and a collective purpose. We strive to offer our members opportunities for the development of leadership skills and for the advancement of educational goals. We also seek to provide a supportive community founded upon the pillars of Tradition, Camaraderie, and Musical Excellence, where we can all work to improve ourselves and the organization as a whole, with the expectation that others will respect us and reciprocate our efforts.
 
-**ARTICLE I. NAME**
+## ARTICLE I. NAME 
 
-**_Section 1. Name and Purpose_**
+### Section 1. _Name and Purpose_  
 
 [1] The Name of this organization is The University of Michigan Men’s Glee Club, hereafter referred to as “the Glee Club.”
 
@@ -40,11 +40,12 @@ The University of Michigan Men’s Glee Club is an ensemble dedicated to musical
 
 [4] The Glee Club shall operate at all times in accordance with the provisions of section 501(c)(3) of the Internal Revenue Code. No part of the net earnings of the Glee Club shall inure to the benefit of, or be distributable to its members, officers, the director, or other private persons, except that the Glee Club shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in Amendment I hereof. No substantial part of the activities of the Glee Club shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the Glee Club shall not participate in, or intervene in (including the publishing or distribution of statements) any political campaign on behalf of or in opposition to any candidate for public office. Notwithstanding any other provision of this Constitution, the Glee Club shall not, except to an insubstantial degree, engage in any activities or exercise any powers that are not in furtherance of the purposes of the Glee Club.
 
-**ARTICLE II. MEMBERSHIP**
+## ARTICLE II. MEMBERSHIP
 
-**_Section 1. Definition of Membership_** Membership in good standing in the Glee Club shall, for the purposes of this Constitution, be defined as the right to attend and vote in business meetings, the right to run for office, and all other rights and privileges not explicitly mandated by the course syllabus.
+### Section 1. _Definition of Membership_
+Membership in good standing in the Glee Club shall, for the purposes of this Constitution, be defined as the right to attend and vote in business meetings, the right to run for office, and all other rights and privileges not explicitly mandated by the course syllabus.
 
-**_Section 2. Eligibility and Auditions_**
+### Section 2. _Eligibility and Auditions_
 
 [1] Any student identifying as male or non-binary enrolled at the University of Michigan or any of its satellite campuses may audition for membership. 
 
@@ -52,7 +53,7 @@ The University of Michigan Men’s Glee Club is an ensemble dedicated to musical
 
 [3] The Executive Committee and the Music Director shall, by mutual agreement, accept new members based upon the candidates’ auditions, with consideration to the specific needs of the Glee Club.
 
-**_Section 3. Leaves of Absence and Post-Graduation Eligibility_**
+### Section 3. _Leaves of Absence and Post-Graduation Eligibility_
 
 [1] Barring loss of good standing, membership in the Glee Club shall automatically be reserved each semester unless the member indicates to the Executive Committee his intention to leave the Glee Club, and in any event shall be revoked after a member ceases to be enrolled at the University of Michigan except for cases referring to Art. II, Sec. 3, [2] & [4].
 
@@ -62,7 +63,7 @@ The University of Michigan Men’s Glee Club is an ensemble dedicated to musical
 
 [4] A member may continue his membership for one (1) semester in which he is not enrolled at the University of Michigan, provided he is eligible to enroll at the University in the following semester and intends to do so. He must follow the same procedure as in Article II Sec 2 [3] (see below) and notify the executive committee of his situation or else his membership in the Glee Club will automatically be revoked.
 
-**_Section 4. Dismissal_**
+### Section 4. _Dismissal_
 
 [1] A Member may be dismissed from good standing in the Glee Club for:
 
@@ -76,9 +77,9 @@ iii. Commission of an indiscretion that is contrary to the principles of the Gle
 
 [3] Both the Executive Board and the Music Director shall consult with one another before revoking a Member’s good standing or mandating that he re-audition.
 
-**ARTICLE III. OPERATIONS**
+## ARTICLE III. OPERATIONS
 
-**_Section 1. Business Meetings_**
+### Section 1. _Business Meetings_
 
 [1] Business meetings shall be held following all regularly scheduled rehearsals, or at the discretion of the Executive Committee.
 
@@ -90,7 +91,7 @@ iii. Commission of an indiscretion that is contrary to the principles of the Gle
 
 [5] Business meetings shall be governed by the Standing Rules of the Glee Club.
 
-**_Section 2. Annual Meeting_**
+### Section 2. _Annual Meeting_
 
 [1] The President, Vice-President and Parliamentarian shall be elected at the Annual Meeting of the Glee Club.
 
@@ -100,7 +101,7 @@ iii. Commission of an indiscretion that is contrary to the principles of the Gle
 
 [4] The Annual Meeting shall be conducted in accordance with the Standing Rules of the Glee Club.
 
-**_Section 3. Tour Group_**
+### Section 3. _Tour Group_
 
 [1] The size of the tour group and date upon which the tour group is to be selected shall be determined by the Executive Committee. Notice shall be given to the membership of the Glee Club two (2) weeks prior to tour group selection.
 
@@ -122,7 +123,7 @@ iii. Four members to be chosen by the Music Director, irrespective of those memb
 
 [7] In years where a tour subsidy is offered by the Glee Club, the Executive Committee shall determine the total amount of money available for subsidy and shall notify the Glee Club that subsidies are available. The award of subsidies to members shall be determined by the Music Director and the Faculty Advisor.
 
-**_Section 4. Points_**
+### Section 4. _Points_
 
 [1] One (1) point shall be awarded for each hour of work. Points in excess of this ratio shall be given only with approval from a member of the Executive Committee. Points may be awarded in increments of one-half (1/2).
 
@@ -186,7 +187,7 @@ iv. Points awarded for ticket sales shall not exceed the number awarded for seni
 
 [7] The Executive Committee may award negative points upon giving at least one (1) week’s notice to Glee Club of condition(s) under which the negative points shall be awarded. The Executive Committee itself must approve and specify the quantity of negative points which shall be awarded, and under which conditions they shall be awarded. The Executive Committee may not delegate the authority to award negative points except according to these predefined limits.
 
-**_Section 5. Attendance and Loss of Points Resulting From Unexcused Absences_**
+### Section 5. _Attendance and Loss of Points Resulting From Unexcused Absences_
 
 [1] Attendance is required at all Performances, Rehearsals, Business Meetings, and the Annual Meeting.
 
@@ -214,7 +215,7 @@ As the professional environment becomes more competitive it is understood that �
 
 As both mental and physical illnesses can manifest suddenly and confirmation of their existence by a note from a doctor, therapist, or psychologist can add an increased burden, the executive committee will assume that absences for sudden illness are requested in good faith.
 
-**_Section 6. Member Conduct_**
+### Section 6. _Member Conduct_
 
 [1] Members of the Glee Club shall be bound by any and all policies adopted by the
 
@@ -222,9 +223,9 @@ Glee Club, including but not limited to the Glee Club’s Standing Rules.
 
 [2] The Executive Committee shall have the ability to create and enforce sanctions for violations of Glee Club policies.
 
-**ARTICLE IV. EXECUTIVE COMMITTEE**
+## ARTICLE IV. EXECUTIVE COMMITTEE
 
-**_Section 1. Powers and Duties_**
+### Section 1. _Powers and Duties_
 
 [1] The Executive Committee shall have the power and responsibility to execute and to enforce binding decisions of the Glee Club, and the power to make decisions not inconsistent with this constitution.
 
@@ -232,7 +233,7 @@ Glee Club, including but not limited to the Glee Club’s Standing Rules.
 
 [3] A quorum of the Executive Committee shall be six (6).
 
-**_Section 2. Membership_**
+### Section 2. _Membership_
 
 [1] The Executive Committee shall consist of the President, the Vice-President, the Operations Manager, the Business Manager, the Publicity Manager, the Alumni Relations Manager, the Music Director, the Advisor, the Parliamentarian, and the Diversity, Equity, and Inclusion (DEI) Chair.
 
@@ -244,7 +245,7 @@ Glee Club, including but not limited to the Glee Club’s Standing Rules.
 
 [5] There shall be two weeks notice given during regular business meetings before the appointment of a member to any office named in this Article.
 
-**_Section 3. President_**
+### Section 3. _President_
 
 [1] The President shall be elected at the Annual Meeting. He shall assume his duties following Spring Tour.
 
@@ -264,7 +265,7 @@ iv. Oversee activities including community service, community engagement, and di
 
 [5] In the event of resignation or removal of the Vice-President, the President shall assume the Vice-President’s duties in addition to his own until the membership can elect a replacement.
 
-**_Section 4. Vice-President_**
+## Section 4. _Vice-President_
 
 [1] The Vice-President shall be elected at the Annual Meeting. He shall assume his
 
@@ -282,7 +283,7 @@ iii. Oversee all aspects of Performances, including concert dress, walk-on, and 
 
 [4] In the event of the resignation or removal of the President, the Vice-President shall assume the role of acting President until the Glee Club can elect a replacement.
 
-**_Section 5. Operations Manager, and Assistant Operations manager And Operations Manager Emeritus._**
+### Section 5. _Operations Manager, and Assistant Operations manager And Operations Manager Emeritus._
 
 [1] The Assistant Operations Manager shall assume his duties immediately after selection by the Executive Committee. Following a year of service, after interviews for Assistant Executive Managers, the previous Assistant Operations Manager shall assume the role of Operations Manager. At that time, the individual who served as Operations Manager shall become Operations Manager Emeritus. The Operations Manager Emeritus may serve for up to a half of a year.
 
@@ -298,7 +299,7 @@ ii. Organize all tours in consultation with the Executive Committee.
 
 [5] The Operations Manager Emeritus shall advise the Operations Manager and Assistant Operations Manager and shall aid in the conception and execution of Spring Tour and other operations ventures on behalf of the Glee Club. The Operations Manager Emeritus shall not have a vote on the Executive Committee.
 
-**_Section 6. Business Manager, Assistant Business Manager, and Business Manager Emeritus_**
+### Section 6. _Business Manager, Assistant Business Manager, and Business Manager Emeritus_
 
 1] The Assistant Business Manager shall assume his duties immediately after selection by the Executive Committee. Following a half year of service at the end of Spring Tour, the Assistant Business Manager shall assume the role of Business Manager. At that time, the individual who served as Business Manager shall become the Business Manager Emeritus. The Business Manager Emeritus may serve for up to one year
 
@@ -318,7 +319,7 @@ iv. In conjunction with the advisor, reconcile the books with the University's m
 
 [5] The Business Manager Emeritus shall advise the Business Manager and Assistant Business Manager and shall aid in the conception and execution of new financial ventures on behalf of the Glee Club. The Business Manager Emeritus shall not have a vote on the Executive Committee.
 
-**_Section 7. Publicity Manager, Assistant Publicity Manager, and Publicity Manager Emeritus_**
+### Section 7. _Publicity Manager, Assistant Publicity Manager, and Publicity Manager Emeritus_
 
 [1] The Assistant Publicity Manager shall assume his duties immediately after selection by the Executive Committee. Following a half year of service at the end of Spring Tour, the Assistant Publicity Manager shall assume the role of Publicity Manager. At that time, the individual who served as Publicity Manager shall become the Publicity Manager Emeritus. The Publicity Manager Emeritus may serve for up to a half of a year.
 
@@ -332,7 +333,7 @@ i. Securing opportunities for engagement with the University and Ann Arbor commu
 
 [5] The Publicity Manager Emeritus shall advise the Publicity Manager and Assistant Publicity Manager and shall aid in the conception and execution of new publicity ventures on behalf of the Glee Club.
 
-**_Section 8. Alumni Relations Manager, Assistant Alumni Relations Manager and Alumni Relations Manager Emeritus_**
+### Section 8. _Alumni Relations Manager, Assistant Alumni Relations Manager and Alumni Relations Manager Emeritus_
 
 [1] The Assistant Alumni Relations Manager shall assume his duties immediately after selection by the Executive Committee. Following a half year of service at the end of Spring Tour the Assistant Alumni Relations Manager shall assume the role of Alumni Relations Manager. At that time, the individual who served as Alumni Relations Manager shall become the Alumni Relations Manager Emeritus. The Alumni Relations Manager Emeritus may serve for up to one year.
 
@@ -354,7 +355,7 @@ v. Oversee all other correspondence with alumni, including the production of Lau
 
 [5] The Alumni Relations Manager Emeritus shall advise the Alumni Relations Manager and Assistant Alumni Relations Manager and shall aid in the conception and execution of new alumni relations ventures on behalf of the Glee Club. The Alumni Relations Manager Emeritus shall not have a vote on the Executive Committee.
 
-**_Section 9. Diversity, Equity, and Inclusion Chair, Assistant DEI Chair, and DEI Chair Emeritus_**
+### Section 9. _Diversity, Equity, and Inclusion Chair, Assistant DEI Chair, and DEI Chair Emeritus_
 
 [1] The Assistant DEI Chair shall assume his duties immediately after selection by the Executive Committee. Following a half year of service at the end of Spring Tour, the Assistant DEI Chair shall assume the role of DEI Chair. At that time, the individual who served as DEI social Chair shall become the DEI Chair Emeritus. The DEI Chair Emeritus may serve for up to one year. 
 
@@ -376,7 +377,7 @@ i. Form a committee, starting immediately after assuming his position as DEI Cha
 
 [6] The DEI Chair Emeritus shall assist in any ventures the current DEI Chair may see fit. The DEI Chair Emeritus shall take responsibility for advising the current DEI Chair and helping connect them with other DEI Leaders and partners. They must be an active member of the DEI Committee. The DEI Chair Emeritus shall not have a vote on the Executive Committee. 
 
-**_Section 10. Music Director_**
+### Section 10. _Music Director_
 
 [1] The Music Director shall be a member of the Faculty of the University of Michigan School of Music. The Music Director shall be selected by the administration of the School of Music in consultation with the Executive Committee.
 
@@ -396,7 +397,7 @@ vi. Work with the Advisor and Alumni Committee in developing long-term plans for
 
 [3] The Music Director may appoint an Assistant Music Director and assign him duties, including maintenance of the music library.
 
-**_Section 10. Advisor_**
+### Section 10. _Advisor_
 
 [1] The Advisor shall be a member of the faculty or a staff member at the University of Michigan. The Music Director shall nominate a candidate for Advisor subject to confirmation by the Executive Committee.
 
@@ -406,7 +407,7 @@ i. Offer guidance to the Executive Committee on business and financial operation
 
 ii. Work with the Executive Board in developing long-term plans for the Glee Club.
 
-**_Section 12. Parliamentarian_**
+### Section 12. _Parliamentarian_
 
 [1] The Parliamentarian shall be responsible for ensuring that the Glee Club operates in accordance with its Constitution and Rules. Upon the inclusion of new members, the Parliamentarian will email the current version of the Constitution and Rules to all members, with the following file name format: UMMGC Constitution/Standing Rules (Club of XXXth, Fall/Winter Semester).
 
@@ -420,7 +421,7 @@ ii. Serve as a non-voting member of the Executive Committee.
 
 [4] The Parliamentarian shall ensure the proper application of this Constitution and offer advisory opinions on its interpretation if asked by any member of the Glee Club. These opinions shall not be binding on any member.
 
-**_Section 13. Removal_**
+### Section 13. _Removal_
 
 [1] A formal request for removal of the Music Director shall require a petition signed by three-fourths (3/4) of the Club membership. The Executive Committee shall present said petition and convey the sentiment of the Club to the School of Music.
 
@@ -430,13 +431,13 @@ ii. Serve as a non-voting member of the Executive Committee.
 
 [4] In addition to the procedures listed above, any Executive Manager, Assistant Executive Manager, Junior Manager, or the Advisor may be removed by the Glee Club with prior notice and a two-thirds (2/3) majority vote of the Glee Club.
 
-**_Section 14. Replacement of Officers_**
+### Section 14. _Replacement of Officers_
 
 Except as otherwise provided in this Article, upon the removal, resignation, or other inability to discharge the duties of a position by an officer, a new officer shall be elected or appointed to serve the remainder of that term as soon as possible, in a manner as closely adhering as possible to the standard procedures established above.
 
-**ARTICLE V. JUDICIARY BOARD**
+## ARTICLE V. JUDICIARY BOARD
 
-**_Section 1. Powers and Duties_**
+### Section 1. _Powers and Duties_
 
 [1] Resolving disputes regarding the interpretation of this Constitution shall be the duty of a Judiciary Board. This power includes the right to review presidential decisions regarding Executive Committee roles made under the power granted to him under Article IV, Section 3[2].
 
@@ -446,7 +447,7 @@ Except as otherwise provided in this Article, upon the removal, resignation, or 
 
 [4] Any member dismissed from good standing in the Glee Club shall have an absolute right to appeal the dismissal to a Judiciary Board.
 
-**_Section 2. Composition of Judiciary Board_**
+### Section 2. _Composition of Judiciary Board_
 
 [1] A Judiciary Board shall be chaired by the Parliamentarian, and shall consist of the President, Vice-President, and four (4) at-large members selected by the Glee Club.
 
@@ -458,7 +459,7 @@ Except as otherwise provided in this Article, upon the removal, resignation, or 
 
 [5] In the event that the President or Vice-President is a party to a dispute before a Judiciary Board, the Club shall select an additional at-large member to serve on the panel.
 
-**_Section 3. Judiciary Board Decisions_**
+### Section 3. _Judiciary Board Decisions_
 
 [1] All decisions of a Judiciary Board require a majority vote. Each member of the Judiciary Board shall have an equal vote.
 
@@ -468,17 +469,17 @@ Except as otherwise provided in this Article, upon the removal, resignation, or 
 
 [4] A Judiciary Board may ask for the testimony or opinion of any member of the Glee Club on any matter before it. Any testimony or opinion shall be given with the assurance of strict confidentiality.
 
-**ARTICLE VI. NON-DISCRIMINATION POLICY**
+## ARTICLE VI. NON-DISCRIMINATION POLICY
 
 The Glee Club shall not discriminate against any member or prospective member on the basis of age, color, creed, disability, marital status, national origin or ancestry, race, religion, sexual orientation, gender expression, birth-assigned sex, or veteran status.
 
-**ARTICLE VII. CONSTITUTIONAL PROCEDURES & ADOPTION OF OTHER RULES**
+## ARTICLE VII. CONSTITUTIONAL PROCEDURES & ADOPTION OF OTHER RULES
 
-**_Section 1. Constitutional Supremacy_**
+### Section 1. _Constitutional Supremacy_
 
 This Constitution shall be the ultimate governing document of the University of Michigan Glee Club, in accordance with the Club’s status as a Sponsored Student Organization and a class in the School of Music, Theatre, and Dance. No Rules, Policy, or other document of the Glee Club shall take precedence before it and any rule not deriving legitimacy from this Constitution shall not be recognized. This version of the Constitution supersedes all former Constitutions of the University of Michigan Men’s Glee Club.
 
-**_Section 2. Constitutional Amendment_**
+### Section 2. _Constitutional Amendment_
 
 [1] This Constitution may be altered in two ways. Alterations that maintain the structure of this Constitution shall be referred to as “changes” and do not require separate denotation at the end and in the header of the document. Alterations that change this Constitution in a major and visible manner shall be known as “amendments.” Changes and amendments will follow the same procedure for acceptance by the Glee Club.
 
@@ -490,10 +491,10 @@ This Constitution shall be the ultimate governing document of the University of 
 
 [5] A presented amendment shall be considered enacted if approved by three-fourths (3/4) of the total voting membership in attendance at Business Meeting.
 
-**_Section 3. Effect of Other Rules_**
+### Section 3. _Effect of Other Rules_
 
 The Glee Club shall also be governed by the supplemental procedures adopted in the Glee Club’s Standing Rules.
 
-**_Section 4. Date of effect_**
+### Section 4. _Date of effect_
 
 This Constitution was approved on the 23<sup>rd</sup> of October 2022. It replaced the previous version which took effect on the 25<sup>th</sup> of September 2022.
